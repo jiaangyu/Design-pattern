@@ -1,0 +1,12 @@
+# idea ignore
+.idea/
+*.ipr
+*.iml
+*.iws
+./test
+# temp ignore
+*.log
+*.cache
+*.diff
+*.patch
+*.tmp
