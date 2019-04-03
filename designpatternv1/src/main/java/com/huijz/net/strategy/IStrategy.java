@@ -9,5 +9,5 @@ public interface IStrategy {
     /**
      * 策略的执行方法
      */
-    public void operate();
+    void operate();
 }
